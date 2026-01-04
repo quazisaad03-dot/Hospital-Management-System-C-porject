@@ -1,0 +1,6 @@
+ SELECT TOP (1000) [ID]
+      ,[UserName]
+      ,[Password]
+      ,[Role]
+      ,[Status]
+  FROM [UserDB].[dbo].[LoginDB]

@@ -1,0 +1,29 @@
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Appoinments.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ManageUsers.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PharmacyStock.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Prescription.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Register.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.SystemActivities.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Reports.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ForgetPassword.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AboutUs.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Home.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.service.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.contact.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patientD.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patientD2.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patientD3.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.pharmaD.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.pharmaD1.resources
+C:\Users\quazi\OneDrive\Documents\Visual Studio 2019\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.pharmaD2.resources
